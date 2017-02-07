@@ -1,6 +1,6 @@
- #include <string>
-    #include <iostream>
-    #include <vector>
+ #include <string.h>
+    #include <iostream.h>
+    #include <vector.h>
     #include "SubdomainPart.h"
     #include "TldPart.h"
     	using namespace std;
